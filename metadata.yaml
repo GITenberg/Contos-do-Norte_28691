@@ -1,0 +1,37 @@
+_repo: Contos-do-Norte_28691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalho, João Marques de
+    aliases:
+    - Marques de Carvalho, João
+    - Carvalho, Marques de
+    - Carvalho, Joao Marques de
+    - De Carvalho, João Marques
+    birthdate: 1866
+    deathdate: 1910
+    gutenberg_agent_id: '33487'
+    url: http://www.gutenberg.org/2009/agents/33487
+    wikipedia: http://pt.wikipedia.org/wiki/Marques_de_Carvalho
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2009-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28691'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+tableOfContents: Represalias -- Um exgottado -- Conto do natal -- A neta da cobacla
+  de Ourém -- O banho da tapuia -- Complicações psychologicas -- Um caso da cabanada
+  -- Um como tantos.
+title: Contos do Norte
+url: http://www.gutenberg.org/ebooks/28691
